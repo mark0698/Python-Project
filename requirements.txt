@@ -1,2 +1,5 @@
 dnspython==2.2.0
 pymongo==4.0.1
+gspread==6.1.2
+google-auth==2.35.0
+colorama==0.4.6
